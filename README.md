@@ -42,18 +42,3 @@ python sherin_wire_tesmain
 
 
 ---
-
-# 💻 Step 4: Push from Your PC
-
-In your project folder:
-
-```bash
-git init
-git remote add origin https://github.com/YOUR_USERNAME/SHERIN-Benchmark-Core.git
-
-git add .
-git commit -m "Initial SHERIN benchmark commit"
-
-git branch -M main
-git push -u origin main
-```
